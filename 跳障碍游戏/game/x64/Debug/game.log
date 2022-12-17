@@ -1,0 +1,13 @@
+﻿  game.cpp
+E:\Game\game\game\game.cpp(16,16): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+E:\Game\game\game\game.cpp(20,35): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Game\game\game\game.cpp(20,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Game\game\game\game.cpp(20,72): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Game\game\game\game.cpp(20,69): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Game\game\game\game.cpp(83,44): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\Game\game\game\game.cpp(83,36): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\Game\game\game\game.cpp(83,30): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\Game\game\game\game.cpp(83,23): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\Game\game\game\game.cpp(84,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\Game\game\game\game.cpp(85,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  game.vcxproj -> E:\Game\game\x64\Debug\game.exe

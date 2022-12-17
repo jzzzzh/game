@@ -1,0 +1,7 @@
+﻿  shot.cpp
+E:\Game\shotBlock\shot\shot\shot.cpp(79,127): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Game\shotBlock\shot\shot\shot.cpp(79,103): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Game\shotBlock\shot\shot\shot.cpp(79,78): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Game\shotBlock\shot\shot\shot.cpp(79,58): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Game\shotBlock\shot\shot\shot.cpp(79,144): warning C4805: “==”: 在操作中将类型“boolean”与类型“bool”混合不安全
+  shot.vcxproj -> E:\Game\shotBlock\shot\Debug\shot.exe
